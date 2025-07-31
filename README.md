@@ -1,4 +1,4 @@
-# restic-helper## 
+# restic-helper 
 
 ## 📄 Description
 
